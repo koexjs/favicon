@@ -1,6 +1,6 @@
 {
   "name": "@koex/favicon",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "favicon for koa extend",
   "main": "lib/index.js",
   "module": "lib/index.js",
